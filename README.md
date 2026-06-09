@@ -10,7 +10,7 @@
   
 ## Projects
 Shark attacks since 1900 ....
-
+![histogram](assets/histogram-example.png)
 
 ## Extra links
 [Education](#Education)\
